@@ -1,0 +1,76 @@
+{
+  "clientes":[
+    {
+      "id": 1,
+      "nombre": "Juan",
+      "DNI": "89456242L",
+      "email": "juan@example.com",
+      "telefono": "644789554"
+    },
+        {
+      "id": 2,
+      "nombre": "Carla",
+      "DNI": "56481234K",
+      "email": "Carla@example.com",
+      "telefono": "988945662"
+    },
+        {
+      "id": 3,
+      "nombre": "Carlos",
+      "DNI": "87452654Q",
+      "email": "Carlos@example.com",
+      "telefono": "123456789"
+    },
+        {
+      "id": 4,
+      "nombre": "Paola",
+      "DNI": "12356485T",
+      "email": "Paola@example.com",
+      "telefono": "655649778"
+    },
+        {
+      "id": 5,
+      "nombre": "Luis",
+      "DNI": "45871265Y",
+      "email": "Luis@example.com",
+      "telefono": "976485214"
+    },
+        {
+      "id": 6,
+      "nombre": "Victor",
+      "DNI": "74326528B",
+      "email": "Victor@example.com",
+      "telefono": "976854214"
+    },
+        {
+      "id": 7,
+      "nombre": "Andrea",
+      "DNI": "06879525H",
+      "email": "Andrea@example.com",
+      "telefono": "976223355"
+    },
+        {
+      "id": 8,
+      "nombre": "Maria",
+      "DNI": "11114455P",
+      "email": "Maria@example.com",
+      "telefono": "976885514"
+    },
+        {
+      "id": 9,
+      "nombre": "Jorge",
+      "DNI": "55447862Q",
+      "email": "Jorge@example.com",
+      "telefono": "976668895"
+    },
+        {
+      "id": 10,
+      "nombre": "Yoel",
+      "DNI": "74851654F",
+      "email": "Yoel@example.com",
+      "telefono": "976552146"
+    }
+  ]
+}
+
+

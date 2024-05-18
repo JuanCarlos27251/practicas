@@ -1,0 +1,75 @@
+{
+  "libros":[
+    {
+      "id": 1,
+      "titulo": "Quijote",
+      "autor": "Pérez",
+      "genero": "Novela",
+      "año_publicacion": "1999"
+    },
+        {
+      "id": 2,
+      "titulo": "Harry",
+      "autor": "Juan",
+      "genero": "Ciencia Ficción",
+      "año_publicacion": "2010"
+    },
+        {
+      "id": 3,
+      "titulo": "La Dueña",
+      "autor": "J.K",
+      "genero": "Terror",
+      "año_publicacion": "2003"
+    },
+        {
+      "id": 4,
+      "titulo": "La Perla",
+      "autor": "J.K",
+      "genero": "Histórico",
+      "año_publicacion": "2020"
+    },
+        {
+      "id": 5,
+      "titulo": "El Camino",
+      "autor": "Luís",
+      "genero": "Terror",
+      "año_publicacion": "1998"
+    },
+        {
+      "id": 6,
+      "titulo": "Fin del Mundo",
+      "autor": "Rowling",
+      "genero": "Ciencia Ficción",
+      "año_publicacion": "1997"
+    },
+        {
+      "id": 7,
+      "titulo": "XXI",
+      "autor": "Rowling",
+      "genero": "Histórico",
+      "año_publicacion": "2021"
+    },
+        {
+      "id": 8,
+      "titulo": "Raza",
+      "autor": "Xus",
+      "genero": "Ciencia Ficción",
+      "año_publicacion": "2005"
+    },
+        {
+      "id": 9,
+      "titulo": "Tú",
+      "autor": "Juan",
+      "genero": "Novela",
+      "año_publicacion": "2006"
+    },
+        {
+      "id": 10,
+      "titulo": "El Armero",
+      "autor": "Pérez",
+      "genero": "Novela",
+      "año_publicacion": "2007"
+    }
+  ]
+}
+
